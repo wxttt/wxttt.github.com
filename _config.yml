@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://wxttt.github.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+title: wxttt's house
+subtitle: 不会写后端的前端不是好交互
+author: wxttt
 simple_search: http://google.com/search
 description:
 
@@ -93,3 +93,5 @@ google_analytics_tracking_id:
 
 # Facebook Like
 facebook_like: false
+#duoshuo name 
+duoshuo_name: wxttt

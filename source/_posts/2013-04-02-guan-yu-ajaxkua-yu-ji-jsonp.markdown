@@ -3,7 +3,7 @@ layout: post
 title: "关于Ajax跨域及JSONP"
 date: 2013-04-02 15:55
 comments: true
-categories: 
+categories: [js, ajax, JSONP, note] 
 ---
 ##1、什么是Ajax
 Ajax是Asynchronous JavaScript and Xml(异步的Javascript和XML技术)的缩写，是一套综合了多项技术的浏览器开发技术。

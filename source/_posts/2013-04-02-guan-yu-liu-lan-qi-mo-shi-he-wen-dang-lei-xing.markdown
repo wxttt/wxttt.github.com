@@ -3,7 +3,7 @@ layout: post
 title: "关于浏览器模式和文档类型"
 date: 2013-04-02 15:54
 comments: true
-categories: 
+categories: [html, note] 
 ---
 ###关于浏览器模式
 浏览器模式包括标准模式和混杂模式（quirks mode）。在标准模式中浏览器根据规范渲染页面，而在混杂模式浏览器以一种比较宽松的向后兼容的方式显示，通常会模拟老式浏览器(如IE4)的行为防止老站点无法访问。
